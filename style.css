@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,600;1,500&display=swap');
+
+
+body{
+    background-color: rgb(61, 127, 174);
+    font: normal 15pt Arial;
+}
+
+header{
+font-family: 'Times New Roman', Times, serif;
+align-items: center;
+text-align: center;
+background-color: aliceblue;
+border-radius: 10px;
+}
+
+section{
+    background-color: whitesmoke;
+    border-radius: 10px;
+    padding: 15px;
+    width: 250px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(226, 15, 15, 0.511);
+    align-items: initial;
+}
+
+    
+.relogio{
+    display:flex;
+    align-items:center;
+    justify-content: space-around;
+    height: 200px;
+    width: 550px;
+    background-color:bisque;
+
+}
+
+
+
+
+footer{
+    text-align: left;
+    font-style: italic;
+    color: rgb(11, 11, 11);
+
+}
+
