@@ -4,8 +4,7 @@ var img = document.getElementById('imagem')
 var data = new Date()
 var hora = data.getHours()
 
-
-
+var hora = 5
 
     if(hora >= 0 && hora < 4){
         //Madrugada

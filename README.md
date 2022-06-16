@@ -5,7 +5,7 @@
         - Modifica cor de fundo
 </p>
 
-<h4 align= "center">Projeto em construção... &#x1F913; &#x1F680;</h4>
+<h4 align= "center">Projeto em construção.... &#x1F913; &#x1F680;</h4>
 
 ### Features
 
