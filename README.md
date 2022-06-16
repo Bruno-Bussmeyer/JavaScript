@@ -12,4 +12,9 @@
  - [x] Criar Titulo
  - [x] Inserir Imagens/modificada pelo Horario
  - [x] Inserir Relogio
- - [  ] Organizar site
+ - [x] Organizar site
+ - [  ] Otimizar codigo
+
+ <h1 align="center">
+        <img alt="Readme" title="Readme" src="C:\Users\Bruno\Desktop\Projetos-DEV\Projetos\javascript\Hora do dia\img\app.gif">
+ </h1>
