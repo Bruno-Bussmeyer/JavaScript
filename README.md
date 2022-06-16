@@ -15,6 +15,4 @@
  - [x] Organizar site
  - [  ] Otimizar codigo
 
- <h1 align="center">
-        <img alt="Readme" title="Readme" src="C:\Users\Bruno\Desktop\Projetos-DEV\Projetos\javascript\Hora do dia\img\app.gif">
- </h1>
+![app](https://user-images.githubusercontent.com/98619218/174005873-24b0bb6e-7f1a-4bfe-a87a-4db14e2d6978.gif)
