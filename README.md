@@ -1,8 +1,8 @@
 # README
 
 <p> - Aplicação mostra um relogio digital <br> 
-        - Mostra imagem <br> 
-        - Modifica cor de fundo
+        - Mostra imagem que muda em função do horario <br> 
+        - Modifica cor de fundo de acordo com a hora
 </p>
 
 <h4 align= "center">Projeto em construção.... &#x1F913; &#x1F680;</h4>
